@@ -23,6 +23,6 @@ python -m venv chatbot
 pip install langchain langchain-ollama ollama
 
 
-To run the chatbot type python .\shamsAIdin\main.py 
+### To run the chatbot type python .\shamsAIdin\main.py 
 
 Type "exit" to quit the chat bot
